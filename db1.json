@@ -1,0 +1,26 @@
+[
+  {
+	"versionCode":1.0,       
+	"apkUrl":"https://abdrive.bajajauto.com/drive/s/qVthuX0dnwuiQDi4NkK8UG51tkWOih",
+	"apkName":"app-debug.apk",
+	"packageName":"com.ctlev.app"
+	},
+	{
+	"versionCode":1.0,       
+	"apkUrl":"https://abdrive.bajajauto.com/user/file/download/link?hashes=OTAzMDl8cGFkZA",
+	"apkName":"app-debug1.apk",
+	"packageName":"com.ctlev.app1"
+	},
+	{
+	"versionCode":1.0,       
+	"apkUrl":"https://abdrive.bajajauto.com/user/file/download/link?hashes=OTM3MDB8cGFkZA",
+	"apkName":"app-debug2.apk",
+	"packageName":"com.ctlev.app2"
+	},
+	{
+	"versionCode":1.0,       
+	"apkUrl":"https://abdrive.bajajauto.com/user/file/download/link?hashes=OTAzMDl8cGFkZA",
+	"apkName":"app-debug3.apk",
+	"packageName":"com.ctlev.app3"
+	}
+ ]
